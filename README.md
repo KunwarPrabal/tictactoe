@@ -10,7 +10,7 @@ Table of contents
    * [About the project](#about-the-project)
    * [Tech Stack](#tech-stack)
    * [Getting Started](#getting-started)
-   * [Prerequisites](#prerequisites
+   * [Prerequisites](#prerequisites)
  
 <!--te-->
 
